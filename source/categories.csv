@@ -1,0 +1,9 @@
+category_id,category_name,budget,is_income_allowed
+1,Food,20000,False
+2,Transport,12000,False
+3,Entertainment,11000,False
+4,Healthcare,15000,False
+5,Education,10000,False
+6,Utilities,11000,False
+7,Shopping,11000,False
+8,Savings,13000,True
