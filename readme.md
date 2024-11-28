@@ -71,8 +71,8 @@
 - **Джойны**: Объединение данных из разных таблиц.
 
 ## Задеплоенный дашборд и репозиторий
-- **Дашборд**: [https://financial-dashboard-hqghsu2jw6gz9hohzaq2eu.streamlit.app/](#) 
-- **Репозиторий**: [https://github.com/sheather666/Financial-Dashboard.git](#)
+- **Дашборд**: [Ссылка на дашборд](https://financial-dashboard-hqghsu2jw6gz9hohzaq2eu.streamlit.app/).
+- **Репозиторий**: [Ссылка на GitHub](git@github.com:sheather666/Financial-Dashboard.git).
 
 ## Автор(ы)
-- *Абдуллаев С.Ш.*
+- *Абдуллаев С. Ш.*
