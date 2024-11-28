@@ -72,7 +72,7 @@
 
 ## Задеплоенный дашборд и репозиторий
 - **Дашборд**: [Ссылка на дашборд](https://financial-dashboard-hqghsu2jw6gz9hohzaq2eu.streamlit.app/).
-- **Репозиторий**: [Ссылка на GitHub](git@github.com:sheather666/Financial-Dashboard.git).
+- **Репозиторий**: [Ссылка на GitHub](https://github.com/sheather666/Financial-Dashboard).
 
 ## Автор(ы)
 - *Абдуллаев С. Ш.*
